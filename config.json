@@ -1,0 +1,18 @@
+{
+    "state_management": "getx",
+    "modules": [
+        "Login_Food",
+        "Register_Food",
+        "Dashboard_Food",
+        "Favorite_Food",
+        "Profile_Food",
+        "MainNavigation_Food",
+        "Food_List",
+        "Food_Detail",
+        "Order_Food",
+        "Edit_Profile_Food",
+        "Food_form",
+        "splash",
+        "Welcome"
+    ]
+}
